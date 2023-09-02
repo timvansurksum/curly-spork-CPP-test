@@ -1,0 +1,3 @@
+C:/Users/targa/Desktop/math and physics/universiteit leiden/JAAR 1/programeer methoden/test/curly-spork-CPP-test/cmake-build-debug/CMakeFiles/curly_spork_CPP_test.dir
+C:/Users/targa/Desktop/math and physics/universiteit leiden/JAAR 1/programeer methoden/test/curly-spork-CPP-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/targa/Desktop/math and physics/universiteit leiden/JAAR 1/programeer methoden/test/curly-spork-CPP-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

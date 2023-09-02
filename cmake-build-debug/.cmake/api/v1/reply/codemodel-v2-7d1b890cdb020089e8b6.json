@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "curly_spork_CPP_test",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "curly_spork_CPP_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-curly_spork_CPP_test-Debug-aa01df5f4b0008e34d7a.json",
+					"name" : "curly_spork_CPP_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/targa/Desktop/math and physics/universiteit leiden/JAAR 1/programeer methoden/test/curly-spork-CPP-test/cmake-build-debug",
+		"source" : "C:/Users/targa/Desktop/math and physics/universiteit leiden/JAAR 1/programeer methoden/test/curly-spork-CPP-test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
